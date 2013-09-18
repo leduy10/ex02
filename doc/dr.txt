@@ -1,0 +1,24 @@
+ex02
+
+bien
+
+---
+
+max one repo per exercise
+
+---
+
+3. http://calculator-converter.com/converter_square_feet_to_acres_calculator.php
+
+1ac = 43560ft²
+1ft² = 1ac / 43560ft²
+1ft² = 2.29568e-5 ac
+1ft² = 0.0000229568 ac
+
+220ft * 260ft = 57200ft²
+1ac : 43560ft² = x : 57200ft²
+x = 57200ft² ac / 43560ft²
+x = 1.313131
+
+
+
